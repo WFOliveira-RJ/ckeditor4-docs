@@ -1,17 +1,1 @@
----
-category: sdk
----
-# Examples
-
-<info-box>
-	Use the **navigation tree on the left** to navigate through CKEditor 4 examples.
-</info-box>
-
-All editor features were divided into two main categories, available in the sidebar on the left:
-
- * **End-user Features** – functionality that your users will see and use.
- * **Integration Features** – more advanced stuff that a CKEditor 4 integrator might need.
-
-The samples are complemented with {@link features/index relevant documentation articles} which explain the features even more broadly — these are always available in the **Documentation** link next to the sample header. You can also find additional reading in the **Related Features** section down below the sample.
-
-Most importantly, though, you can view and copy the exact source code of each editor demo in the **Get Sample Source Code** section at the bottom of the sample pages. This code uses the [CKEditor CDN](https://cdn.ckeditor.com/), so you can save it and run locally without the need to download CKEditor 4 itself!
+%3Cp%20style%3D%22text-align%3Ajustify%3B%22%3E%3Cspan%20style%3D%22color%3Ablack%3B%22%3ENegar%20provimento%20aos%20recursos%20administrativos%20interpostos%20pelos%20Revendedores%20Varejistas%20de%20Combust%EDveis%20POSTO%20VILA%20REAL%20LTDA%3B%20POSTO%20S%C3O%20GERALDO%20LTDA%3B%20D%20M%20DINIZ%20EIRELI%20e%20AUTO%20POSTO%20GALHARDO%20LTDA%2C%20com%20manuten%E7%E3o%20integral%20da%20decis%E3o%20de%201%AA%20inst%E2ncia%2C%20que%20determina%20a%20aplica%E7%E3o%20de%20pena%20pecuni%E1ria.%3C/span%3E%3C/p%3E
